@@ -42,7 +42,8 @@ detalle que el tab debe ser de 4 para que funcione
     * Item dentro 1
     * Item dentro 2
 
-<!-- !Listas ordenadas anidadas-->
+<!-- !Listas ordenad
+as anidadas-->
 1. lista ordenada con
     1. items dentro 1
     2. items dentro 2
