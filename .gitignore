@@ -1,2 +1,4 @@
 env/
+keras-env/
+keras/*.csv
 __pycache__/
